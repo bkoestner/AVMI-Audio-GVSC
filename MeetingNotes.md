@@ -1,3 +1,4 @@
+## 2024-10-30
 Parth Patel will be working with Bailey
 Sampled sounds and then procedural audio
 
