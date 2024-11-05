@@ -13,3 +13,12 @@ Next year Dim 450
 
 Right now 11 million on Congressional Budget for the next cycle
 3-5 year program
+
+## 2024-11-05
+
+Discussion of integration with Unreal.  Bianchi has been testing a basic system.  Bailey is working with control functions in steering.
+Bailey working predominatly at the Blueprint level.
+Puts all the sounds into a sound cue with constant modulators 
+
+Bianchi suggests looking at [meta-sounds](https://forums.unrealengine.com/t/recommended-community-tutorial-metasounds/757515)
+
